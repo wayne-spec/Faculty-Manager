@@ -1,0 +1,13 @@
+Faculty Manger Notes.
+
+
+Improvements
+1 .The creation of school is not properly audited        -Done
+2 . Audit of the creation of all activities.             -Done
+3. Create another Serializer and views that Lists a lecturer, the number of allocations they have and the work rate. -Done
+4. For Effective allocation. Ensure that whenever you Select a unit it automatically selects the specific course and school. - Not urgent
+5. Remember to set Debug = False in setting.py to make it secure.
+6.  Enable session authentication for the application. - It is Enabled Just impliment it on the front-Enabled
+7.  Remove routes for register
+8. Hide the payload for authentication. The password can be seen.
+9. Also pass the auth token and let it be hidden.
