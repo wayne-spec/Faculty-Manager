@@ -167,5 +167,5 @@ SIMPLE_JWT = {
     "REFRESH_TOKEN_LIFETIME": timedelta(days=1),
 }
 CORS_ALLOWED_ORIGINS = [
-    'https://faculty-manager-front-end-g6m8.vercel.app',  # React frontend
+    'https://faculty-manager-front-end-g6m8.vercel.app/',  # React frontend
 ]
